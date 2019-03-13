@@ -1,6 +1,9 @@
 # 2ndCapstoneProject_github
 **Crowd counting by convolutional networks**
 
+# Announcement
+All of the images used in this project is only for personal study use. Copyright belongs to the resources.
+
 # Problem statement: 
 My idea is to count how many people in a picture or a video by a simple convolutional neural network. It is inspired when I watched some political events on the television. Those different channels would show you some videos or pictures with different numbers of people although it is from the same event. TV channels might want to be my clients and provide a more accurate number of people in their stories. They should be willing to show a really confident number especially when they are reporting particular events like the presidential election campaign. It is not only good in convincing their audience, but also in building up their reputation. 
 
@@ -26,6 +29,8 @@ My idea is to count how many people in a picture or a video by a simple convolut
 * **Facial recognition classifier derived from convolutional networks.ipynb**: test different dataset combinations based on 32x32 images in Keras's convolutional neural network
 * **Facial recognition classifier derived from convolutional networks + augmentation.ipynb**: use Keras's augmentation preprocessing to add more varieties in classifier training
 * **Evaluate facial CNN classifiers by other datasets.ipynb**: use different datasets to test my models
+* **Facial recognition classifier + sliding windows.ipynb**: model + sliding window + heat map (crowd counting)
 
 # Files
 * **2nd CapstoneProject_Milestone part1.docx**: the results of model evaluation
+* **2nd CapstoneProject_Milestone part2.pdf**: crowd counting
